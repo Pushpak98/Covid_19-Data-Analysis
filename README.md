@@ -19,7 +19,7 @@ Intensity here means number of positive cases/population density.
 # Output
 1. The age group of 20-29 is most infected. As observed in AgeGroupDetails.csv, this age group has the highest percentage of cases which is 0.248600 with Total Cases being 172 nos.
 
-<img src="https://user-images.githubusercontent.com/55409875/89711324-3d557d00-d9a7-11ea-80a1-6250b854471a.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/55409875/89711324-3d557d00-d9a7-11ea-80a1-6250b854471a.png" width="50%"></img> 
 
 
 2. Plots of the cases observed, recovered, deaths per day, country-wise and state-wise.
