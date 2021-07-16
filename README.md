@@ -26,4 +26,8 @@ Intensity here means number of positive cases/population density.
 
 <img src="https://user-images.githubusercontent.com/55409875/89711480-27948780-d9a8-11ea-87fe-9691e2d967a3.png" width="50%"></img> 
 
+2(II). ![AP](https://user-images.githubusercontent.com/55409875/125905651-c622509d-d135-41ae-926e-aea8a455113e.png)
+![Andaman](https://user-images.githubusercontent.com/55409875/125905666-2bfa410c-32ef-4424-8c41-6f9ae4ebc3e1.png)
+
+
 3. 
