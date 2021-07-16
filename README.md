@@ -30,4 +30,24 @@ Intensity here means number of positive cases/population density.
 ![Andaman](https://user-images.githubusercontent.com/55409875/125905666-2bfa410c-32ef-4424-8c41-6f9ae4ebc3e1.png)
 
 
-3. 
+3. a![Q3a](https://user-images.githubusercontent.com/55409875/125906087-20569c6b-93fd-4394-a815-9721dd2224d9.png)
+
+3(b)![image](https://user-images.githubusercontent.com/55409875/125906397-cf323045-7b0e-4ede-bf4b-7ae2f6211c69.png)
+
+4. ![image](https://user-images.githubusercontent.com/55409875/125906441-1694cba2-1516-42a0-aaf4-368a77e0be6d.png)
+![image](https://user-images.githubusercontent.com/55409875/125906469-de4eb063-a890-4340-baf2-06c52dfaab50.png)
+
+5. ![image](https://user-images.githubusercontent.com/55409875/125906499-80ac5ade-1c8e-4e0e-b835-3fd5a2516526.png)
+
+6. ![image](https://user-images.githubusercontent.com/55409875/125906543-81b7a204-ccea-4783-af49-3331aa79c289.png)
+
+6B. ![Sheet 2 (5) (1)](https://user-images.githubusercontent.com/55409875/125906618-0f99d810-b375-44c7-9378-32efef4f1068.png)
+![Sheet 2 (5)](https://user-images.githubusercontent.com/55409875/125906623-107f93dd-bd43-4b0b-b50e-1d29b5207283.png)
+![Sheet 5 (4)](https://user-images.githubusercontent.com/55409875/125906629-d493ad18-ddda-4f76-b1c4-5e8ae038d994.png)
+
+7. no of labs is 259.4 
+
+8. ![Sheet 2](https://user-images.githubusercontent.com/55409875/125906709-f6c9fe22-8229-493d-8a35-ea6b651daaa7.png)
+
+9. ![Sheet 3 (2)](https://user-images.githubusercontent.com/55409875/125906733-3d19d767-b337-43ec-9884-008fa68f23f1.png)
+
